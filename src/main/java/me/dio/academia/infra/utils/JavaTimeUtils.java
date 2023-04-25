@@ -1,4 +1,4 @@
-package me.dio.academia.digital.infra.utils;
+package me.dio.academia.infra.utils;
 
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;

@@ -1,8 +1,8 @@
-package me.dio.academia.digital.controller;
+package me.dio.academia.controller;
 
-import me.dio.academia.digital.entity.Matricula;
-import me.dio.academia.digital.entity.form.MatriculaForm;
-import me.dio.academia.digital.service.impl.MatriculaServiceImpl;
+import me.dio.academia.entity.Matricula;
+import me.dio.academia.entity.form.MatriculaForm;
+import me.dio.academia.service.impl.MatriculaServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

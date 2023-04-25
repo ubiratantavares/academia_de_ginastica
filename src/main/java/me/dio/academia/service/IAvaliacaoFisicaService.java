@@ -1,8 +1,8 @@
-package me.dio.academia.digital.service;
+package me.dio.academia.service;
 
-import me.dio.academia.digital.entity.AvaliacaoFisica;
-import me.dio.academia.digital.entity.form.AvaliacaoFisicaForm;
-import me.dio.academia.digital.entity.form.AvaliacaoFisicaUpdateForm;
+import me.dio.academia.entity.AvaliacaoFisica;
+import me.dio.academia.entity.form.AvaliacaoFisicaForm;
+import me.dio.academia.entity.form.AvaliacaoFisicaUpdateForm;
 
 import java.util.List;
 

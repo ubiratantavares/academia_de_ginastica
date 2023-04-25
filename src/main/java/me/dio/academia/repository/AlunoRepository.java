@@ -1,6 +1,6 @@
-package me.dio.academia.digital.repository;
+package me.dio.academia.repository;
 
-import me.dio.academia.digital.entity.Aluno;
+import me.dio.academia.entity.Aluno;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
